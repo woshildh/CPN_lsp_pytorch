@@ -1,5 +1,5 @@
 ## Cascade Pyramid Network (CPN) on LSP
-This is my implementation of CPN on LSP. This implemetation is simple and computation is small (about 3.5G gpu). You can use this implementation for your first 2d-pose estimation project.
+This is my implementation of CPN on LSP. This implemetation is simple and computation is small (about 3.5G gpu). You can use this implementation for as first 2d-pose estimation project.
 
 ### Requirements
 PyTorch (0.4 or later)  
