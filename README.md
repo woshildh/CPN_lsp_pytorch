@@ -3,8 +3,8 @@ This is my implementation of CPN on LSP. This implemetation is simple and comput
 
 ### Requirements
 PyTorch (0.4 or later)  
-opencv-python
-tensorboardX
+opencv-python  
+tensorboardX  
 numpy
 
 ### Start train
