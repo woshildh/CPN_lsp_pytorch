@@ -29,7 +29,7 @@ Then you can go to http://0.0.0.0:6006 .The results is shown as below:
 </div>
 
 ### Demo
-1. download [cpn_lsp_without_ohkm_best.pth](https://pan.baidu.com/s/1sOY7OH03xdz_UHBstNYyWgs67b) and code is s67b
+1. download [cpn_lsp_without_ohkm_best.pth](https://pan.baidu.com/s/1sOY7OH03xdz_UHBstNYyWg) and code is s67b
 2.
 ```
 $ python demo.py --img_path vis/test3.jpg --weights_path cpn_lsp_without_ohkm_best.pth --save_path vis/vis3.jpg
