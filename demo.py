@@ -37,6 +37,7 @@ def main():
     # define model
     model = cpn_resnet50(cfg.num_kps)
     model.load_state_dict(torch.load(args.weights_path))
+    model.eval()
     # load img
     image = cv2.imread(args.img_path)
     img = transform(image,cfg.opt).unsqueeze(0).float()
